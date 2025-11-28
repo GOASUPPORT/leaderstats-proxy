@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "leaderstats-proxy",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "openapi-tdb",
+      "database_id": "7b561e3b-e0e6-4fcd-be1d-e899346e521c"
+    }
+  ]
+}
